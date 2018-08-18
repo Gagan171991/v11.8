@@ -1,0 +1,6 @@
+
+POOL: stratum+tcp://decred.hk.nicehash.com:3354, WALLET: 3Aj4kHu2umufERNpXmTwvwd9ae4jWoDvXB.GaganAMD, PSW: x, WORKER: Nish, ESM: 3, ALLPOOLS: 1
+POOL: stratum+tcp://decred.jp.nicehash.com:3354, WALLET: 3Aj4kHu2umufERNpXmTwvwd9ae4jWoDvXB.GaganAMD, PSW: x, WORKER: Nish, ESM: 3, ALLPOOLS: 1
+POOL: stratum+tcp://decred.eu.nicehash.com:3354, WALLET: 3Aj4kHu2umufERNpXmTwvwd9ae4jWoDvXB.GaganAMD, PSW: x, WORKER: Nish, ESM: 3, ALLPOOLS: 1
+POOL: stratum+tcp://decred.br.nicehash.com:3354, WALLET: 3Aj4kHu2umufERNpXmTwvwd9ae4jWoDvXB.GaganAMD, PSW: x, WORKER: Nish, ESM: 3, ALLPOOLS: 1
+POOL: stratum+tcp://decred.usa.nicehash.com:3354, WALLET: 3Aj4kHu2umufERNpXmTwvwd9ae4jWoDvXB.GaganAMD, PSW: x, WORKER: Nish, ESM: 3, ALLPOOLS: 1

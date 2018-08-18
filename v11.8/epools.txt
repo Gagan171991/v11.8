@@ -1,0 +1,5 @@
+POOL: stratum+tcp://daggerhashimoto.hk.nicehash.com:3353, WALLET: 3Aj4kHu2umufERNpXmTwvwd9ae4jWoDvXB, PSW: x, WORKER: Nish, ESM: 3, ALLPOOLS: 1
+POOL: stratum+tcp://daggerhashimoto.jp.nicehash.com:3353, WALLET: 3Aj4kHu2umufERNpXmTwvwd9ae4jWoDvXB, PSW: x, WORKER: Nish, ESM: 3, ALLPOOLS: 1
+POOL: stratum+tcp://daggerhashimoto.eu.nicehash.com:3353, WALLET: 3Aj4kHu2umufERNpXmTwvwd9ae4jWoDvXB, PSW: x, WORKER: Nish, ESM: 3, ALLPOOLS: 1
+POOL: stratum+tcp://daggerhashimoto.br.nicehash.com:3353, WALLET: 3Aj4kHu2umufERNpXmTwvwd9ae4jWoDvXB, PSW: x, WORKER: Nish, ESM: 3, ALLPOOLS: 1
+POOL: stratum+tcp://daggerhashimoto.usa.nicehash.com:3353, WALLET: 3Aj4kHu2umufERNpXmTwvwd9ae4jWoDvXB, PSW: x, WORKER: Nish, ESM: 3, ALLPOOLS: 1
